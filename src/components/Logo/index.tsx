@@ -1,5 +1,5 @@
 import React from 'react'
-import { getImageUrl } from 'utils/getImageUrl'
+import { getImageUrl } from '../../utils/getImageUrl'
 import { LogoProps } from '../../types/api'
 import * as S from './styles'
 
