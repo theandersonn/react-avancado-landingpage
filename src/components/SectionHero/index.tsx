@@ -1,11 +1,11 @@
 import React from 'react'
 
-import Logo from 'components/Logo'
-import Button from 'components/Button'
+import Logo from '../../components/Logo'
+import Button from '../../components/Button'
 import * as S from './styles'
 
-import { gaEvent } from 'utils/ga'
-import Container from 'components/Container'
+import { gaEvent } from '../../utils/ga'
+import Container from '../../components/Container'
 import { HeaderProps, LogoProps } from '../../types/api'
 import { getImageUrl } from '../../utils/getImageUrl'
 
